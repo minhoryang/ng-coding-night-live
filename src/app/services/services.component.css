@@ -1,0 +1,21 @@
+.center-list {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    max-width: 600px;
+}
+.room-link-element {
+    color: black;
+}
+.room-link-element:hover {
+    color: #0275d8;
+    text-decoration: none;
+}
+.room-delete-element {
+    color: white;
+}
+.room-delete-element:hover {
+    color: white;
+    text-decoration: none;
+}
