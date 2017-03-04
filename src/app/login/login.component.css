@@ -1,0 +1,15 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    max-width: 300px;
+}
+
+#google_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 73%;
+    max-width: 313px;
+}

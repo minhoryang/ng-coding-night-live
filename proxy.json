@@ -1,0 +1,8 @@
+{
+  "/accounts/google/*": {
+    "target": "http://obrian.local"
+  },
+  "/admin/*": {
+    "target": "http://obrian.local"
+  }
+}
